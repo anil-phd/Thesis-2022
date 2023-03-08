@@ -1,0 +1,1 @@
+select distinct meternumber from customermeterlanding c where addresstype ='Residential' limit 10

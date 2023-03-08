@@ -1,0 +1,19 @@
+INFO:root:Starting API Data Fetch: 2023-02-28 09:49:56.881878
+INFO:root:Extracting list of meters at: 2023-02-28 09:49:56.881878
+INFO:root:list of meters extracted at: 2023-02-28 09:50:04.221519
+INFO:root:Starting Multiprocessing at: 2023-02-28 09:50:04.221519
+INFO:root:Data Fetch Start: 2023-02-28 09:50:04.354506
+INFO:root:Fetching data for meter LWR05318 at: 2023-02-28 09:50:07.170148
+INFO:root:Fetching data for meter LSW036778 at: 2023-02-28 09:50:07.195081
+INFO:root:Fetching data for meter LR002819 at: 2023-02-28 09:50:07.212034
+INFO:root:Fetching data for meter LR000106 at: 2023-02-28 09:50:07.293310
+INFO:root:Fetching data for meter LS0005632 at: 2023-02-28 09:50:22.151009
+INFO:root:Fetching data for meter LSW041514 at: 2023-02-28 09:50:22.349441
+INFO:root:Fetching data for meter LSW013997 at: 2023-02-28 09:50:24.280186
+INFO:root:Fetching data for meter LR006539 at: 2023-02-28 09:50:27.358773
+INFO:root:Fetching data for meter LSW047950 at: 2023-02-28 09:50:34.570170
+INFO:root:Fetching data for meter LWR04298 at: 2023-02-28 09:50:36.699449
+INFO:root:Multiprocessing end at: 2023-02-28 09:50:49.291440
+INFO:root:Data Fetch end at: 2023-02-28 09:50:49.292437 Time Taken: 44.93793082237244
+INFO:root:API Fetch Stop at: 2023-02-28 09:50:49.292437 
+

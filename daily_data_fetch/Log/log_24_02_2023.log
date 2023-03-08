@@ -1,7 +1,0 @@
-INFO:root:Starting API Data Fetch: 2023-02-24 16:40:19.809494
-INFO:root:Extracting list of meters at: 2023-02-24 16:40:19.809494
-INFO:root:list of meters extracted at: 2023-02-24 16:40:26.825186
-INFO:root:Starting Multiprocessing at: 2023-02-24 16:40:26.826180
-INFO:root:Data Fetch Start: 2023-02-24 16:40:26.960113
-INFO:root:API Fetch Stop at: 2023-02-24 16:40:26.995021 
-

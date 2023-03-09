@@ -1,6 +1,6 @@
 # Thesis Title: Evolving Hyperboxes for Enhanced Classification and Scalable Feature Subset Selection [[Pdf]](https://1drv.ms/b/s!Ard6zC4cx2hlniNUROuwaZDb1eT6?e=Fpqipj)
 ## Contributions of Thesis 
-### Our codes are implemented in Matlab R2017a environment. 
+### Our codes are implemented at Matlab R2017a environment. 
 
 1. **kNN-FMNN: Hybridization of Fuzzy Min-Max Neural Networks with kNN for Enhanced Pattern Classification** [[Pdf]](https://link.springer.com/chapter/10.1007/978-981-13-9939-8_4)
 

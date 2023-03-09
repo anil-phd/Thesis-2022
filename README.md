@@ -1,8 +1,9 @@
 # Thesis-2022
-Saving code of contributions
 
 kNN-FMNN: Hybridization of Fuzzy Min-Max Neural Networks with kNN for Enhanced Pattern Classification
-https://link.springer.com/chapter/10.1007/978-981-13-9939-8_4
+
+Link:https://link.springer.com/chapter/10.1007/978-981-13-9939-8_4
+
 Cite {
   @InProceedings{10.1007/978-981-13-9939-8_4,
   author="Kumar, Anil
@@ -22,7 +23,9 @@ Cite {
 }
 
 FDM-FMFRS: Scalable Fuzzy Rough Set Reduct Computation Using Fuzzy Min–Max Neural Network Preprocessing
-https://ieeexplore.ieee.org/document/8957320
+
+Link:https://ieeexplore.ieee.org/document/8957320
+
 Cite {
   @ARTICLE{8957320,
     author={Kumar, Anil and Prasad, P. S. V. S. Sai},
@@ -36,7 +39,9 @@ Cite {
 }
 
 CDM-FMFRS: Enhancing the scalability of fuzzy rough set approximate reduct computation through fuzzy min–max neural network and crisp discernibility relation formulation
-https://www.sciencedirect.com/science/article/pii/S0952197622000227?via%3Dihub
+
+Link: https://www.sciencedirect.com/science/article/pii/S0952197622000227?via%3Dihub
+
 Cite {
   @article{KUMAR2022104697,
   title = {Enhancing the scalability of fuzzy rough set approximate reduct computation through fuzzy min–max neural network and crisp discernibility relation   formulation},
@@ -51,7 +56,9 @@ Cite {
 }
 
 IvFMFRS: Incremental fuzzy rough sets based feature subset selection using fuzzy min-max neural network preprocessing
-https://www.sciencedirect.com/science/article/pii/S0888613X21001481?via%3Dihub
+
+Link: https://www.sciencedirect.com/science/article/pii/S0888613X21001481?via%3Dihub
+
 Cite {
     @article{KUMAR202169,
     title = {Incremental fuzzy rough sets based feature subset selection using fuzzy min-max neural network preprocessing},
